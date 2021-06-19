@@ -1,0 +1,31 @@
+,CF,DeveloperRoles,MS,CMS,CMSbyMS
+0,General,top_p,45297,3290,7.3
+1,General,occ_p,60609,3409,5.6000000000000005
+2,Branch,top_p_target,33872,2301,6.800000000000001
+3,Branch,occ_p_target,46826,2745,5.8999999999999995
+4,Branch,top_p_source,20925,2590,12.4
+5,Branch,occ_p_source,35086,2970,8.5
+6,Developers,top_p_target_dev<=5,26764,1450,5.4
+7,Developers,occ_p_target_dev<=5,37047,1353,3.6999999999999997
+8,Developers,top_p_source_dev<=5,16173,1418,8.799999999999999
+9,Developers,occ_p_source_dev<=5,25987,1450,5.6000000000000005
+10,Developers,top_p_target_(dev>5 & dev<=10),3499,346,9.9
+11,Developers,occ_p_target_(dev>5 & dev<=10),4918,546,11.1
+12,Developers,top_p_source_(dev>5 & dev<=10),2332,458,19.6
+13,Developers,occ_p_source_(dev>5 & dev<=10),4601,602,13.100000000000001
+14,Developers,top_p_target_dev>10,3609,505,14.000000000000002
+15,Developers,occ_p_target_dev>10,4861,846,17.4
+16,Developers,top_p_source_dev>10,2420,714,29.5
+17,Developers,occ_p_source_dev>10,4498,918,20.4
+18,Chunks,top_p_target_Chunks<=50,22618,701,3.1
+19,Chunks,occ_p_target_Chunks<=50,34305,916,2.7
+20,Chunks,top_p_source_Chunks<=50,12819,724,5.6000000000000005
+21,Chunks,occ_p_source_Chunks<=50,23289,980,4.2
+22,Chunks,top_p_target_(chunks>50 & chunks<=100),3410,362,10.6
+23,Chunks,occ_p_target_(chunks>50 & chunks<=100),3624,321,8.9
+24,Chunks,top_p_source_(chunks>50 & chunks<=100),2336,380,16.3
+25,Chunks,occ_p_source_(chunks>50 & chunks<=100),3501,370,10.6
+26,Chunks,top_p_target_chunks>100,7844,1238,15.8
+27,Chunks,occ_p_target_chunks>100,8897,1508,16.900000000000002
+28,Chunks,top_p_source_chunks>100,5770,1486,25.8
+29,Chunks,occ_p_source_chunks>100,8296,1620,19.5

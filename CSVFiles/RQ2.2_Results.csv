@@ -1,0 +1,33 @@
+,CF,DeveloperRoles,MS,CMS,CMSbyMS
+0,General,top_p o top_b,40249,2912,7.199999999999999
+1,General,top_p o occ_p,15069,1569,10.4
+2,General,occ_p o top_b,52392,2674,5.1
+3,General,occ_p o occ_b,26788,2617,9.8
+4,Branch,top_p o top_b,18670,2186,11.700000000000001
+5,Branch,top_p o occ_p,6018,1211,20.1
+6,Branch,occ_p o top_b,29423,1762,6.0
+7,Branch,occ_p o occ_b,9491,1914,20.200000000000003
+8,Developers,Top_p o Top_b o source o Dev<=5,14978,1268,8.5
+9,Developers,Top_p o Occ_b o source o Dev<=5,2797,340,12.2
+10,Developers,Occ_p o Top_b o source o Dev<=5,23131,1066,4.6
+11,Developers,Occ_p o Occ_b o source o Dev<=5,5099,682,13.4
+12,Developers,Top_p o Top_b o source o (dev>5 & dev<=10),1735,349,20.1
+13,Developers,Top_p o Occ_b o source o (dev>5 & dev<=10),1439,293,20.4
+14,Developers,Occ_p o Top_b o source o (dev>5 & dev<=10),3349,297,8.9
+15,Developers,Occ_p o Occ_b o source o (dev>5 & dev<=10),2148,498,23.200000000000003
+16,Developers,Top_p o Top_b o source o Dev>10,1957,569,29.099999999999998
+17,Developers,Top_p o Occ_b o source o Dev>10,1782,578,32.4
+18,Developers,Occ_p o Top_b o source o Dev>10,2943,399,13.600000000000001
+19,Developers,Occ_p o Occ_b o source o Dev>10,2244,734,32.7
+20,Chunks,Top_p o Top_b o target o Chunks<=50,11640,600,5.2
+21,Chunks,Top_p o Occ_b o target o Chunks<=50,2346,221,9.4
+22,Chunks,Occ_p o Top_b o target o Chunks<=50,21251,787,3.6999999999999997
+23,Chunks,Occ_p o Occ_b o target o Chunks<=50,4228,486,11.5
+24,Chunks,Top_p o Top_b o source o (chunks>50 & chunks<=100),2032,309,15.2
+25,Chunks,Top_p o Occ_b o source o (chunks>50 & chunks<=100),840,155,18.5
+26,Chunks,Occ_p o Top_b o source o (chunks>50 & chunks<=100),2686,227,8.5
+27,Chunks,Occ_p o Occ_b o source o (chunks>50 & chunks<=100),1256,228,18.2
+28,Chunks,Top_p o Top_b o source o Chunks>100,4998,1277,25.6
+29,Chunks,Top_p o Occ_b o source o Chunks>100,2832,835,29.5
+30,Chunks,Occ_p o Top_b o source o Chunks>100,5486,748,13.600000000000001
+31,Chunks,Occ_p o Occ_b o source o Chunks>100,4007,1200,29.9

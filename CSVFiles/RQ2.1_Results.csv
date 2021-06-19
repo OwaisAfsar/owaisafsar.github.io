@@ -1,0 +1,33 @@
+,CF,DeveloperRoles,MS,CMS,CMSbyMS
+0,General,top_p o top_b,40249,2912,7.199999999999999
+1,General,top_p o occ_p,15069,1569,10.4
+2,General,occ_p o top_b,52392,2674,5.1
+3,General,occ_p o occ_b,26788,2617,9.8
+4,Branch,top_p o top_b,29516,2000,6.800000000000001
+5,Branch,top_p o occ_p,10826,796,7.3999999999999995
+6,Branch,occ_p o top_b,36680,1948,5.3
+7,Branch,occ_p o occ_b,19267,1190,6.2
+8,Developers,Top_p o Top_b o target o Dev<=5,24367,1319,5.4
+9,Developers,Top_p o Occ_b o target o Dev<=5,5420,301,5.6000000000000005
+10,Developers,Occ_p o Top_b o target o Dev<=5,31534,1015,3.2
+11,Developers,Occ_p o Occ_b o target o Dev<=5,11045,482,4.3999999999999995
+12,Developers,Top_p o Top_b o target o (dev>5 & dev<=10),2500,266,10.6
+13,Developers,Top_p o Occ_b o target o (dev>5 & dev<=10),2483,175,7.000000000000001
+14,Developers,Occ_p o Top_b o target o (dev>5 & dev<=10),2718,380,14.000000000000002
+15,Developers,Occ_p o Occ_b o target o (dev>5 & dev<=10),4185,274,6.5
+16,Developers,Top_p o Top_b o target o Dev>10,2649,415,15.7
+17,Developers,Top_p o Occ_b o target o Dev>10,2923,320,10.9
+18,Developers,Occ_p o Top_b o target o Dev>10,2428,553,22.8
+19,Developers,Occ_p o Occ_b o target o Dev>10,4037,434,10.8
+20,Chunks,Top_p o Top_b o target o Chunks<=50,20213,628,3.1
+21,Chunks,Top_p o Occ_b o target o Chunks<=50,4754,154,3.2
+22,Chunks,Occ_p o Top_b o target o Chunks<=50,29860,759,2.5
+23,Chunks,Occ_p o Occ_b o target o Chunks<=50,10137,252,2.5
+24,Chunks,Top_p o Top_b o target o (chunks>50 & chunks<=100),2830,318,11.200000000000001
+25,Chunks,Top_p o Occ_b o target o (chunks>50 & chunks<=100),1491,94,6.3
+26,Chunks,Occ_p o Top_b o target o (chunks>50 & chunks<=100),2230,218,9.8
+27,Chunks,Occ_p o Occ_b o target o (chunks>50 & chunks<=100),2505,145,5.800000000000001
+28,Chunks,Top_p o Top_b o target o Chunks>100,6473,1054,16.3
+29,Chunks,Top_p o Occ_b o target o Chunks>100,4581,548,12.0
+30,Chunks,Occ_p o Top_b o target o Chunks>100,4590,971,21.2
+31,Chunks,Occ_p o Occ_b o target o Chunks>100,6625,793,12.0
